@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!--TODO: replace below string with your key -->
+    <string name="api_key">your api key</string>
+    <string name="enter_username">Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="name_validate_message">Name can\'t be empty.</string>
+    <string name="email_empty_validate_message">Email can\'t be empty.</string>
+    <string name="email_validate_message">Invalid Email address.</string>
+    <string name="password_empty_validate_message">Password can\'t be empty.</string>
+    <string name="password_validate_message">Password should be greater or equals to 8 characters.</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="already_have_an_account_sign_up">Already have an account? Sign in</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="create_naccount">Create\nAccount</string>
+    <string name="today">Today</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="temp">%s \u2103</string>
+    <string name="last_updated">Last Updated : %s</string>
+    <string name="check_your_internet_connectivity">Check your internet connectivity.</string>
+    <string name="no_data_available">No data available</string>
+    <string name="email_or_password_is_incorrect">Email or Password is incorrect.</string>
+    <string name="user_with_this_email_is_already_exist">User with this email is already exist.</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="you_have_to_allow_location_permission_for_getting_weather_data">You have to allow location permission for getting weather data.</string>
+    <string name="go_to_setting">Go to Setting</string>
+    <string name="cancel">Cancel</string>
+    <string name="please_turn_on_location">Please turn on location</string>
+    <string name="current">Current</string>
+    <string name="_5_days">5 Days</string>
+
+</resources>
